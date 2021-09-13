@@ -19,7 +19,7 @@ genius = lyricsgenius.Genius('biZZReO7F98mji5oz3cE0FiIG73Hh07qoXSIzYSGNN3GBsnY-e
 token = 'token bot'
 bot = telepot.Bot(token)
 
-def DOWNLOADMP3(link,chat_id):
+def DOWNLOADMP3(link,1001234144318):
     results = spotifyy.track(link)
     song = results['name']
     artist = results['artists'][0]['name']
