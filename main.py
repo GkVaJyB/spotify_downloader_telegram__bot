@@ -1,4 +1,5 @@
 from spotify import DOWNLOADMP3 as SONGDOWNLOADER
+from mgs import DOWNLOADMP3 as SONGDOWNLOADER
 import telepot
 import spotify
 import requests
